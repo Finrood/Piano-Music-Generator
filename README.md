@@ -4,6 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+###### Made in 2021
+
 This Python project implements a neural network that generates a short piano piece. The neural network is trained on a dataset of existing piano compositions to learn the patterns and structures present in music. It then generates a new piece that reflects the learned musical style.
 
 ## Neural Network Architecture
